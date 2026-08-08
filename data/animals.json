@@ -1,0 +1,922 @@
+[
+  {
+    "id": "harimau-sumatra",
+    "name": "Harimau Sumatra",
+    "scientificName": "Panthera tigris sumatrae",
+    "status": "Kritis",
+    "statusKey": "critical",
+    "group": "Mamalia",
+    "habitat": "Hutan Hujan",
+    "location": "Sumatra, Indonesia",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sumatran%20tiger%20%28Panthera%20tigris%20sumatrae%29.jpg",
+    "alt": "Harimau Sumatra",
+    "summary": "Subspesies harimau yang hanya hidup alami di Pulau Sumatra.",
+    "description": "Harimau Sumatra merupakan predator puncak yang membantu menjaga keseimbangan rantai makanan di hutan Sumatra.",
+    "threats": [
+      "Perburuan dan perdagangan ilegal",
+      "Fragmentasi habitat",
+      "Konflik manusia dan satwa"
+    ],
+    "actions": [
+      "Melindungi koridor hutan",
+      "Tidak membeli produk satwa liar",
+      "Mendukung perlindungan hutan"
+    ],
+    "source": "https://www.worldwildlife.org/species/tiger/sunda-tiger/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sumatran%20tiger%20%28Panthera%20tigris%20sumatrae%29%20vocalising.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sumatran_tiger_(Panthera_tigris_sumatrae)_vocalising.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Harimau Sumatra."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sumatran%20tiger%20%28Panthera%20tigris%20sumatrae%29%20vocalising.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sumatran_tiger_(Panthera_tigris_sumatrae)_vocalising.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Harimau Sumatra yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Sumatran_tiger_(Panthera_tigris_sumatrae).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "orangutan-kalimantan",
+    "name": "Orangutan Kalimantan",
+    "scientificName": "Pongo pygmaeus",
+    "status": "Kritis",
+    "statusKey": "critical",
+    "group": "Mamalia",
+    "habitat": "Hutan Hujan",
+    "location": "Kalimantan/Borneo",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bornean%20orangutan%20%28Pongo%20pygmaeus%29.jpg",
+    "alt": "Orangutan Kalimantan",
+    "summary": "Primata arboreal besar yang hidup di hutan tropis Kalimantan.",
+    "description": "Orangutan Kalimantan membantu regenerasi hutan melalui penyebaran biji dan sangat bergantung pada tutupan hutan yang luas.",
+    "threats": [
+      "Deforestasi",
+      "Kebakaran hutan",
+      "Perburuan dan perdagangan satwa"
+    ],
+    "actions": [
+      "Menjaga habitat hutan",
+      "Memilih produk berkelanjutan",
+      "Tidak memelihara primata liar"
+    ],
+    "source": "https://www.worldwildlife.org/species/orangutan/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bornean%20orangutan%20%28Pongo%20pygmaeus%29.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus).webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Orangutan Kalimantan."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bornean%20orangutan%20%28Pongo%20pygmaeus%29.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus).webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Orangutan Kalimantan yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "gorila-gunung",
+    "name": "Gorila Gunung",
+    "scientificName": "Gorilla beringei beringei",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan Pegunungan",
+    "location": "Rwanda, Uganda, Republik Demokratik Kongo",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mountain%20gorilla%20%28Gorilla%20beringei%20beringei%29%2027.jpg",
+    "alt": "Gorila Gunung",
+    "summary": "Primata besar yang hidup dalam kelompok keluarga di hutan pegunungan Afrika Tengah.",
+    "description": "Gorila gunung hidup dalam kelompok sosial yang kuat dan membutuhkan habitat hutan pegunungan yang terlindungi.",
+    "threats": [
+      "Penyakit dari manusia",
+      "Kehilangan habitat",
+      "Konflik dan perburuan"
+    ],
+    "actions": [
+      "Mendukung wisata bertanggung jawab",
+      "Menjaga taman nasional",
+      "Mengurangi risiko penularan penyakit"
+    ],
+    "source": "https://www.worldwildlife.org/species/gorilla/mountain-gorilla/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mountain%20gorilla%20%28Gorilla%20beringei%20beringei%29%20and%20his%20family.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_(Gorilla_beringei_beringei)_and_his_family.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Gorila Gunung."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mountain%20gorilla%20%28Gorilla%20beringei%20beringei%29%20and%20his%20family.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_(Gorilla_beringei_beringei)_and_his_family.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Gorila Gunung yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_(Gorilla_beringei_beringei)_27.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "bekantan",
+    "name": "Bekantan",
+    "scientificName": "Nasalis larvatus",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan Mangrove",
+    "location": "Kalimantan",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Proboscis%20monkey%20%28Nasalis%20larvatus%29.JPG",
+    "alt": "Bekantan",
+    "summary": "Primata berhidung panjang yang khas dan endemik Pulau Kalimantan.",
+    "description": "Bekantan sangat bergantung pada hutan mangrove, rawa, dan tepian sungai untuk makanan dan tempat berlindung.",
+    "threats": [
+      "Kerusakan mangrove",
+      "Kebakaran hutan",
+      "Perburuan"
+    ],
+    "actions": [
+      "Melindungi mangrove",
+      "Mencegah kebakaran lahan",
+      "Tidak memelihara primata liar"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Proboscis%20Monkey%20%28Nasalis%20larvatus%29%20male%20eating.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Proboscis_Monkey_(Nasalis_larvatus)_male_eating.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Bekantan."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Proboscis%20Monkey%20%28Nasalis%20larvatus%29%20male%20eating.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Proboscis_Monkey_(Nasalis_larvatus)_male_eating.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Bekantan yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Proboscis_monkey_(Nasalis_larvatus).JPG",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "panda-merah",
+    "name": "Panda Merah",
+    "scientificName": "Ailurus fulgens",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan Pegunungan",
+    "location": "Himalaya dan Tiongkok bagian selatan",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Red%20panda%20%28Ailurus%20fulgens%29.jpg",
+    "alt": "Panda Merah",
+    "summary": "Mamalia arboreal pemakan bambu yang hidup di hutan pegunungan beriklim sejuk.",
+    "description": "Panda merah banyak menghabiskan waktu di pepohonan dan menggunakan ekor tebal untuk menjaga keseimbangan serta kehangatan.",
+    "threats": [
+      "Kehilangan habitat",
+      "Perburuan",
+      "Fragmentasi populasi"
+    ],
+    "actions": [
+      "Menjaga hutan bambu",
+      "Mencegah perdagangan ilegal",
+      "Mendukung kawasan konservasi"
+    ],
+    "source": "https://www.worldwildlife.org/species/red-panda/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023-08-18%20ZOO%20LJUBLJANA%20-%20Ailurus%20fulgens%2011.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-18_ZOO_LJUBLJANA_-_Ailurus_fulgens_11.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Panda Merah."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023-08-18%20ZOO%20LJUBLJANA%20-%20Ailurus%20fulgens%2011.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023-08-18_ZOO_LJUBLJANA_-_Ailurus_fulgens_11.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Panda Merah yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Red_panda_(Ailurus_fulgens).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "anjing-liar-afrika",
+    "name": "Anjing Liar Afrika",
+    "scientificName": "Lycaon pictus",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Savana",
+    "location": "Afrika sub-Sahara",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/African%20wild%20dog%20lycaon%20pictus.jpg",
+    "alt": "Anjing Liar Afrika",
+    "summary": "Predator sosial yang hidup dalam kawanan dan dikenal memiliki pola bulu yang unik.",
+    "description": "Anjing liar Afrika berburu secara kooperatif dan membutuhkan wilayah jelajah luas yang relatif bebas dari gangguan.",
+    "threats": [
+      "Fragmentasi habitat",
+      "Konflik dengan manusia",
+      "Penyakit dari anjing domestik"
+    ],
+    "actions": [
+      "Menjaga koridor satwa",
+      "Vaksinasi hewan domestik di sekitar habitat",
+      "Mengurangi konflik manusia-satwa"
+    ],
+    "source": "https://www.worldwildlife.org/species/african-wild-dog/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/African%20Wild%20Dogs%20%28Lycaon%20pictus%29.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:African_Wild_Dogs_(Lycaon_pictus).webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Anjing Liar Afrika."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/African%20Wild%20Dogs%20%28Lycaon%20pictus%29.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:African_Wild_Dogs_(Lycaon_pictus).webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Anjing Liar Afrika yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:African_wild_dog_lycaon_pictus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "gajah-asia",
+    "name": "Gajah Asia",
+    "scientificName": "Elephas maximus",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan Tropis",
+    "location": "Asia Selatan dan Asia Tenggara",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Asian%20Elephant%20%28Elephas%20maximus%29.jpg",
+    "alt": "Gajah Asia",
+    "summary": "Mamalia darat terbesar di Asia yang berperan sebagai insinyur ekosistem.",
+    "description": "Gajah Asia membuka jalur hutan, menyebarkan biji, dan memengaruhi struktur vegetasi sehingga banyak spesies lain ikut memperoleh manfaat.",
+    "threats": [
+      "Kehilangan habitat",
+      "Konflik manusia-gajah",
+      "Perburuan"
+    ],
+    "actions": [
+      "Melindungi jalur jelajah",
+      "Mendukung mitigasi konflik",
+      "Menolak perdagangan gading"
+    ],
+    "source": "https://www.worldwildlife.org/species/elephant/asian-elephant/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Asian%20elephants.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Asian_elephants.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Gajah Asia."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Asian%20elephants.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Asian_elephants.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Gajah Asia yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Asian_Elephant_(Elephas_maximus).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "simpanse",
+    "name": "Simpanse",
+    "scientificName": "Pan troglodytes",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan Tropis",
+    "location": "Afrika Tengah dan Barat",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chimpanzee%20%28Pan%20troglodytes%29.jpg",
+    "alt": "Simpanse",
+    "summary": "Primata cerdas yang menggunakan alat dan memiliki struktur sosial kompleks.",
+    "description": "Simpanse menunjukkan kemampuan belajar, kerja sama, dan penggunaan alat yang menjadikannya salah satu primata paling banyak dipelajari.",
+    "threats": [
+      "Kehilangan habitat",
+      "Perburuan",
+      "Penyakit"
+    ],
+    "actions": [
+      "Melindungi hutan",
+      "Menghentikan perdagangan satwa",
+      "Mendukung program konservasi berbasis komunitas"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chimpanzees%20demonstrating%20how%20they%20use%20tools.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chimpanzees_demonstrating_how_they_use_tools.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Simpanse."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chimpanzees%20demonstrating%20how%20they%20use%20tools.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chimpanzees_demonstrating_how_they_use_tools.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Simpanse yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Chimpanzee_(Pan_troglodytes).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "tasmanian-devil",
+    "name": "Tasmanian Devil",
+    "scientificName": "Sarcophilus harrisii",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan dan Semak",
+    "location": "Tasmania, Australia",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tasmanian%20Devil%20%2824170311598%29.jpg",
+    "alt": "Tasmanian Devil",
+    "summary": "Marsupial karnivor terbesar yang masih hidup dan hanya ditemukan alami di Tasmania.",
+    "description": "Tasmanian devil merupakan pemakan bangkai penting yang membantu membersihkan ekosistem dari sisa hewan.",
+    "threats": [
+      "Penyakit tumor wajah",
+      "Kematian di jalan",
+      "Ukuran populasi terbatas"
+    ],
+    "actions": [
+      "Mendukung program pembiakan konservasi",
+      "Mengurangi kematian akibat kendaraan",
+      "Menjaga habitat"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascar%20VIDEO%20-%20Ferocious%20Tasmanian%20Devil%20%28Found%20only%20in%20Tasmania%29%20%284552479578%29.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lascar_VIDEO_-_Ferocious_Tasmanian_Devil_(Found_only_in_Tasmania)_(4552479578).webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Tasmanian Devil."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascar%20VIDEO%20-%20Ferocious%20Tasmanian%20Devil%20%28Found%20only%20in%20Tasmania%29%20%284552479578%29.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lascar_VIDEO_-_Ferocious_Tasmanian_Devil_(Found_only_in_Tasmania)_(4552479578).webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Tasmanian Devil yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Tasmanian_Devil_(24170311598).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "hiu-paus",
+    "name": "Hiu Paus",
+    "scientificName": "Rhincodon typus",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Ikan",
+    "habitat": "Laut Tropis",
+    "location": "Perairan tropis dan subtropis dunia",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Whale%20Shark%20%28Rhincodon%20typus%29.jpg",
+    "alt": "Hiu Paus",
+    "summary": "Ikan terbesar di dunia yang memakan plankton dengan cara menyaring air laut.",
+    "description": "Hiu paus merupakan raksasa laut yang relatif jinak dan bermigrasi mengikuti ketersediaan makanan.",
+    "threats": [
+      "Tertabrak kapal",
+      "Tertangkap alat tangkap",
+      "Gangguan wisata yang tidak terkontrol"
+    ],
+    "actions": [
+      "Menerapkan wisata bertanggung jawab",
+      "Mengurangi bycatch",
+      "Melindungi jalur migrasi"
+    ],
+    "source": "https://www.worldwildlife.org/species/whale-shark/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Whale%20shark%20%28Rhincodon%20typus%29%20near%20a%20boat.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Whale_shark_(Rhincodon_typus)_near_a_boat.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Hiu Paus."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Whale%20shark%20%28Rhincodon%20typus%29%20near%20a%20boat.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Whale_shark_(Rhincodon_typus)_near_a_boat.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Hiu Paus yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Whale_Shark_(Rhincodon_typus).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "penguin-afrika",
+    "name": "Penguin Afrika",
+    "scientificName": "Spheniscus demersus",
+    "status": "Kritis",
+    "statusKey": "critical",
+    "group": "Burung",
+    "habitat": "Pesisir dan Laut",
+    "location": "Afrika Selatan dan Namibia",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/African%20penguin%20in%20South%20Africa.jpg",
+    "alt": "Penguin Afrika",
+    "summary": "Penguin yang hidup di pantai Afrika bagian selatan dan beradaptasi dengan perairan produktif.",
+    "description": "Penguin Afrika bergantung pada ketersediaan ikan kecil dan lokasi berkembang biak yang aman di sepanjang pesisir.",
+    "threats": [
+      "Berkurangnya ikan",
+      "Pencemaran minyak",
+      "Gangguan habitat berkembang biak"
+    ],
+    "actions": [
+      "Melindungi koloni",
+      "Mengelola perikanan berkelanjutan",
+      "Mencegah pencemaran laut"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/African%20penguins%2C%20Betty%27s%20Bay%2008.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:African_penguins,_Betty's_Bay_08.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Penguin Afrika."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/African%20penguins%2C%20Betty%27s%20Bay%2008.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:African_penguins,_Betty's_Bay_08.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Penguin Afrika yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:African_penguin_in_South_Africa.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "panda-raksasa",
+    "name": "Panda Raksasa",
+    "scientificName": "Ailuropoda melanoleuca",
+    "status": "Rentan",
+    "statusKey": "vulnerable",
+    "group": "Mamalia",
+    "habitat": "Hutan Bambu",
+    "location": "Pegunungan Tiongkok",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ailuropoda%20melanoleuca.jpg",
+    "alt": "Panda Raksasa",
+    "summary": "Beruang pemakan bambu yang menjadi salah satu simbol konservasi dunia.",
+    "description": "Panda raksasa sangat bergantung pada hutan bambu pegunungan dan memerlukan habitat yang saling terhubung.",
+    "threats": [
+      "Fragmentasi habitat",
+      "Perubahan iklim",
+      "Keterbatasan habitat bambu"
+    ],
+    "actions": [
+      "Melindungi hutan bambu",
+      "Menjaga koridor habitat",
+      "Mendukung penelitian populasi"
+    ],
+    "source": "https://www.worldwildlife.org/species/giant-panda/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giant%20panda%20%28Ailuropoda%20melanoleuca%29%20in%20a%20zoo.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giant_panda_(Ailuropoda_melanoleuca)_in_a_zoo.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Panda Raksasa."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giant%20panda%20%28Ailuropoda%20melanoleuca%29%20in%20a%20zoo.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giant_panda_(Ailuropoda_melanoleuca)_in_a_zoo.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Panda Raksasa yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Ailuropoda_melanoleuca.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "macan-tutul-salju",
+    "name": "Macan Tutul Salju",
+    "scientificName": "Panthera uncia",
+    "status": "Rentan",
+    "statusKey": "vulnerable",
+    "group": "Mamalia",
+    "habitat": "Pegunungan",
+    "location": "Asia Tengah dan Himalaya",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Snow%20leopard%20%28Panthera%20uncia%29.JPG",
+    "alt": "Macan Tutul Salju",
+    "summary": "Kucing besar pegunungan yang hidup di kawasan berbatu dan bersalju.",
+    "description": "Macan tutul salju memiliki adaptasi tubuh yang sangat baik untuk medan curam, dingin, dan berketinggian tinggi.",
+    "threats": [
+      "Perburuan",
+      "Berkurangnya mangsa",
+      "Konflik dengan peternak"
+    ],
+    "actions": [
+      "Mendukung mitigasi konflik",
+      "Menjaga populasi mangsa",
+      "Menghentikan perdagangan ilegal"
+    ],
+    "source": "https://www.worldwildlife.org/species/snow-leopard/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Snow%20leopard%20family%2C%20Spiti%2C%20Himachal%20Pradesh%2C%20India.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Snow_leopard_family,_Spiti,_Himachal_Pradesh,_India.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Macan Tutul Salju."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Snow%20leopard%20family%2C%20Spiti%2C%20Himachal%20Pradesh%2C%20India.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Snow_leopard_family,_Spiti,_Himachal_Pradesh,_India.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Macan Tutul Salju yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Snow_leopard_(Panthera_uncia).JPG",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "beruang-kutub",
+    "name": "Beruang Kutub",
+    "scientificName": "Ursus maritimus",
+    "status": "Rentan",
+    "statusKey": "vulnerable",
+    "group": "Mamalia",
+    "habitat": "Es Laut Arktik",
+    "location": "Wilayah Arktik",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polar%20Bear.jpg",
+    "alt": "Beruang Kutub",
+    "summary": "Predator besar Arktik yang sangat bergantung pada es laut untuk berburu.",
+    "description": "Beruang kutub terutama berburu anjing laut dari permukaan es dan terdampak langsung oleh perubahan kondisi es laut.",
+    "threats": [
+      "Menyusutnya es laut",
+      "Perubahan iklim",
+      "Pencemaran"
+    ],
+    "actions": [
+      "Mengurangi emisi",
+      "Menjaga habitat Arktik",
+      "Mengurangi pencemaran"
+    ],
+    "source": "https://www.worldwildlife.org/species/polar-bear/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polar%20bears%20in%20Alaska.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Polar_bears_in_Alaska.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Beruang Kutub."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polar%20bears%20in%20Alaska.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Polar_bears_in_Alaska.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Beruang Kutub yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Polar_Bear.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "cheetah",
+    "name": "Cheetah",
+    "scientificName": "Acinonyx jubatus",
+    "status": "Rentan",
+    "statusKey": "vulnerable",
+    "group": "Mamalia",
+    "habitat": "Savana",
+    "location": "Afrika dan sebagian kecil Asia",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Acinonyx%20jubatus%20%282%29.jpg",
+    "alt": "Cheetah",
+    "summary": "Hewan darat tercepat di dunia yang berburu dengan mengandalkan kecepatan.",
+    "description": "Cheetah membutuhkan ruang terbuka luas untuk berburu dan memiliki tantangan genetik akibat keragaman genetik yang rendah.",
+    "threats": [
+      "Kehilangan habitat",
+      "Konflik dengan peternak",
+      "Perdagangan ilegal"
+    ],
+    "actions": [
+      "Menjaga lanskap savana",
+      "Mendukung mitigasi konflik",
+      "Menghentikan perdagangan satwa"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cheetah%2C%20Madikwe.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cheetah,_Madikwe.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Cheetah."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cheetah%2C%20Madikwe.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cheetah,_Madikwe.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Cheetah yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Acinonyx_jubatus_(2).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "golden-lion-tamarin",
+    "name": "Golden Lion Tamarin",
+    "scientificName": "Leontopithecus rosalia",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan Atlantik",
+    "location": "Brasil",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Golden%20lion%20tamarin%20portrait.jpg",
+    "alt": "Golden Lion Tamarin",
+    "summary": "Primata kecil berwarna jingga keemasan yang hidup di Hutan Atlantik Brasil.",
+    "description": "Golden lion tamarin hidup berkelompok dan sangat bergantung pada hutan yang memiliki pepohonan tua dan rongga alami.",
+    "threats": [
+      "Fragmentasi hutan",
+      "Kehilangan habitat",
+      "Populasi terisolasi"
+    ],
+    "actions": [
+      "Menghubungkan fragmen hutan",
+      "Mendukung restorasi Hutan Atlantik",
+      "Melindungi kelompok liar"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Callitrichidae%20-%20Leontopithecus%20rosalia%20-%20Golden%20Lion%20Tamarin.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Callitrichidae_-_Leontopithecus_rosalia_-_Golden_Lion_Tamarin.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Golden Lion Tamarin."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Callitrichidae%20-%20Leontopithecus%20rosalia%20-%20Golden%20Lion%20Tamarin.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Callitrichidae_-_Leontopithecus_rosalia_-_Golden_Lion_Tamarin.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Golden Lion Tamarin yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Golden_lion_tamarin_portrait.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "golden-headed-lion-tamarin",
+    "name": "Golden-headed Lion Tamarin",
+    "scientificName": "Leontopithecus chrysomelas",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan Atlantik",
+    "location": "Bahia, Brasil",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leontopithecus%20chrysomelas%20%28portrait%29.jpg",
+    "alt": "Golden-headed Lion Tamarin",
+    "summary": "Primata kecil dengan kepala berwarna keemasan yang hidup di Hutan Atlantik Brasil.",
+    "description": "Spesies ini hidup dalam kelompok sosial kecil dan bergantung pada habitat hutan yang beragam untuk mencari buah, serangga, dan tempat berlindung.",
+    "threats": [
+      "Deforestasi",
+      "Fragmentasi habitat",
+      "Perubahan penggunaan lahan"
+    ],
+    "actions": [
+      "Melindungi Hutan Atlantik",
+      "Mendukung koridor satwa",
+      "Mengurangi fragmentasi habitat"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Le%20sage%20se%20gratte.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Le_sage_se_gratte.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Golden-headed Lion Tamarin."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Le%20sage%20se%20gratte.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Le_sage_se_gratte.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Golden-headed Lion Tamarin yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Leontopithecus_chrysomelas_(portrait).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "singa",
+    "name": "Singa",
+    "scientificName": "Panthera leo",
+    "status": "Rentan",
+    "statusKey": "vulnerable",
+    "group": "Mamalia",
+    "habitat": "Savana",
+    "location": "Afrika sub-Sahara dan India",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Panthera%20leo.jpg",
+    "alt": "Singa",
+    "summary": "Kucing besar sosial yang hidup dalam kelompok yang disebut pride.",
+    "description": "Singa berperan sebagai predator puncak dan membantu menjaga keseimbangan populasi herbivora di habitatnya.",
+    "threats": [
+      "Kehilangan habitat",
+      "Konflik manusia-satwa",
+      "Berkurangnya mangsa"
+    ],
+    "actions": [
+      "Melindungi habitat",
+      "Mendukung mitigasi konflik",
+      "Menjaga populasi mangsa"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lion%20%28Panthera%20leo%29.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo).webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Singa."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lion%20%28Panthera%20leo%29.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo).webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Singa yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Panthera_leo.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "jerapah",
+    "name": "Jerapah",
+    "scientificName": "Giraffa camelopardalis",
+    "status": "Rentan",
+    "statusKey": "vulnerable",
+    "group": "Mamalia",
+    "habitat": "Savana dan Hutan Terbuka",
+    "location": "Afrika",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giraffe%20%28Giraffa%20camelopardalis%29%20%286021552369%29.jpg",
+    "alt": "Jerapah",
+    "summary": "Mamalia darat tertinggi yang memakan daun dari pepohonan tinggi.",
+    "description": "Jerapah memengaruhi struktur vegetasi dan membantu penyebaran biji di ekosistem savana serta hutan terbuka.",
+    "threats": [
+      "Kehilangan habitat",
+      "Perburuan",
+      "Fragmentasi populasi"
+    ],
+    "actions": [
+      "Melindungi lanskap savana",
+      "Mencegah perburuan",
+      "Menjaga koridor migrasi"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giraffe%20%28Giraffa%20camelopardalis%29%20male%20....webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giraffe_(Giraffa_camelopardalis)_male_....webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Jerapah."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giraffe%20%28Giraffa%20camelopardalis%29%20male%20....webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Giraffe_(Giraffa_camelopardalis)_male_....webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Jerapah yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Giraffe_(Giraffa_camelopardalis)_(6021552369).jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  },
+  {
+    "id": "kuda-nil-kerdil",
+    "name": "Kuda Nil Kerdil",
+    "scientificName": "Choeropsis liberiensis",
+    "status": "Terancam",
+    "statusKey": "endangered",
+    "group": "Mamalia",
+    "habitat": "Hutan Rawa",
+    "location": "Afrika Barat",
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pygmy%20hippopotamus%20Choeropsis%20liberiensis.jpg",
+    "alt": "Kuda Nil Kerdil",
+    "summary": "Kuda nil berukuran kecil yang hidup tersembunyi di hutan dan rawa Afrika Barat.",
+    "description": "Kuda nil kerdil lebih soliter daripada kuda nil biasa dan sangat bergantung pada hutan lembap dengan akses ke sungai atau rawa.",
+    "threats": [
+      "Deforestasi",
+      "Perburuan",
+      "Fragmentasi habitat"
+    ],
+    "actions": [
+      "Melindungi hutan rawa",
+      "Mengurangi perburuan",
+      "Mendukung kawasan konservasi"
+    ],
+    "source": "https://www.iucnredlist.org/",
+    "video": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pygmy%20hippopotamus.webm",
+      "type": "video/webm",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pygmy_hippopotamus.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman video Kuda Nil Kerdil."
+    },
+    "audio": {
+      "available": true,
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pygmy%20hippopotamus.webm",
+      "type": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pygmy_hippopotamus.webm",
+      "credit": "Wikimedia Commons",
+      "license": "Lihat halaman sumber media untuk lisensi.",
+      "note": "Rekaman suara menggunakan trek audio dari media Kuda Nil Kerdil yang sama."
+    },
+    "imageSourcePage": "https://commons.wikimedia.org/wiki/File:Pygmy_hippopotamus_Choeropsis_liberiensis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Lihat halaman sumber gambar untuk detail lisensi dan atribusi."
+  }
+]

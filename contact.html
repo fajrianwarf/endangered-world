@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Sampaikan minat, ide, atau bentuk partisipasi Anda untuk mendukung edukasi dan konservasi satwa.">
+  <title>Partisipasi | Endangered World</title>
+  <link rel="icon" href="assets/logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <script>
+tailwind.config = {
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif']
+      }
+    }
+  }
+}
+</script>
+<script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/custom.css">
+</head>
+<body data-page="contact" class="font-sans antialiased">
+  
+<a href="#main-content" class="theme-ring sr-only z-[100] rounded-xl bg-white p-3 shadow-lg focus:not-sr-only focus:fixed focus:left-4 focus:top-4">Lewati ke konten utama</a>
+<header class="sticky top-0 z-40 border-b border-slate-200 bg-white/95 backdrop-blur-xl">
+  <nav class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8" aria-label="Navigasi utama">
+    <a href="index.html" class="theme-ring flex min-w-0 items-center gap-3 rounded-xl" aria-label="Endangered World - Beranda">
+      <img src="assets/logo.png" alt="" class="h-12 w-12 shrink-0 object-contain">
+      <span class="min-w-0">
+        <strong class="theme-text block truncate text-lg leading-tight">Endangered World</strong>
+        <small class="block truncate text-xs text-slate-500">Belajar · Peduli · Bertindak</small>
+      </span>
+    </a>
+
+    <div class="hidden items-center gap-1 lg:flex">
+      
+      <a href="index.html" data-nav="home" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Beranda</a>
+      <a href="animals.html" data-nav="animals" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Hewan</a>
+      <a href="education.html" data-nav="education" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Edukasi</a>
+      <a href="conservation.html" data-nav="conservation" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Konservasi</a>
+      <a href="contact.html" data-nav="contact" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Partisipasi</a>
+    
+    </div>
+
+    <div class="flex shrink-0 items-center gap-2">
+      <div class="theme-picker-group hidden sm:flex" aria-label="Pilihan warna tampilan">
+        
+        <button class="theme-dot" style="background:#047857" data-theme-color="#047857" aria-label="Gunakan tema hijau hutan" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#0369a1" data-theme-color="#0369a1" aria-label="Gunakan tema biru laut" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#c2410c" data-theme-color="#c2410c" aria-label="Gunakan tema jingga" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#7c3aed" data-theme-color="#7c3aed" aria-label="Gunakan tema ungu" aria-pressed="false"></button>
+        <label class="theme-custom-picker theme-ring" title="Pilih warna sendiri">
+          <span data-custom-theme-swatch class="custom-theme-swatch" aria-hidden="true"></span>
+          <span class="custom-theme-icon" aria-hidden="true">＋</span>
+          <span class="sr-only">Pilih warna tema sendiri</span>
+          <input data-theme-picker type="color" value="#047857" aria-label="Pilih warna tema sendiri">
+        </label>
+    
+      </div>
+      <button type="button" data-mobile-toggle aria-expanded="false" aria-controls="mobile-menu"
+        class="theme-ring grid h-10 w-10 place-items-center rounded-xl border border-slate-300 bg-white lg:hidden">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <span class="sr-only">Buka menu</span>
+      </button>
+    </div>
+  </nav>
+
+  <div id="mobile-menu" data-mobile-menu class="hidden border-t border-slate-200 bg-white px-4 py-3 lg:hidden">
+    <div class="mx-auto max-w-7xl space-y-1">
+      
+      <a href="index.html" data-nav="home" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Beranda</a>
+      <a href="animals.html" data-nav="animals" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Hewan</a>
+      <a href="education.html" data-nav="education" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Edukasi</a>
+      <a href="conservation.html" data-nav="conservation" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Konservasi</a>
+      <a href="contact.html" data-nav="contact" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Partisipasi</a>
+    
+      <div class="mt-3 border-t border-slate-200 pt-4">
+        <p class="mb-3 text-xs font-black uppercase tracking-wider text-slate-500">Warna tampilan</p>
+        <div class="theme-picker-group flex">
+          
+        <button class="theme-dot" style="background:#047857" data-theme-color="#047857" aria-label="Gunakan tema hijau hutan" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#0369a1" data-theme-color="#0369a1" aria-label="Gunakan tema biru laut" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#c2410c" data-theme-color="#c2410c" aria-label="Gunakan tema jingga" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#7c3aed" data-theme-color="#7c3aed" aria-label="Gunakan tema ungu" aria-pressed="false"></button>
+        <label class="theme-custom-picker theme-ring" title="Pilih warna sendiri">
+          <span data-custom-theme-swatch class="custom-theme-swatch" aria-hidden="true"></span>
+          <span class="custom-theme-icon" aria-hidden="true">＋</span>
+          <span class="sr-only">Pilih warna tema sendiri</span>
+          <input data-theme-picker type="color" value="#047857" aria-label="Pilih warna tema sendiri">
+        </label>
+    
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  
+<main id="main-content">
+  <section class="hero-theme py-20 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <p class="font-black uppercase tracking-[.2em] text-white/75">Bergabung bersama kami</p>
+      <h1 class="mt-3 max-w-4xl text-5xl font-black">Ambil bagian dalam upaya menjaga satwa dan habitatnya</h1>
+      <p class="mt-5 max-w-3xl text-lg leading-8 text-white/80">Sampaikan minat, pengalaman, atau ide kegiatan Anda. Kami percaya perubahan yang berarti dapat dimulai dari edukasi, kolaborasi, dan tindakan sederhana yang dilakukan secara konsisten.</p>
+    </div>
+  </section>
+
+  <section class="mx-auto grid max-w-7xl gap-10 px-4 py-16 sm:px-6 lg:grid-cols-[1fr_340px] lg:px-8">
+    <article class="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8">
+      <h2 class="text-3xl font-black">Ceritakan bagaimana Anda ingin terlibat</h2>
+      <form id="participationForm" class="mt-8 space-y-7">
+        <fieldset class="rounded-2xl border border-slate-200 p-5">
+          <legend class="theme-text px-2 font-black">Identitas</legend>
+          <div class="grid gap-5 sm:grid-cols-2">
+            <label>
+              <span class="mb-2 block font-black">Nama</span>
+              <input name="name" type="text" required minlength="3" autocomplete="name" class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3">
+            </label>
+            <label>
+              <span class="mb-2 block font-black">Email</span>
+              <input name="email" type="email" required autocomplete="email" class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3">
+            </label>
+            <label>
+              <span class="mb-2 block font-black">Tanggal lahir</span>
+              <input name="birthDate" type="date" required class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3">
+            </label>
+            <label>
+              <span class="mb-2 block font-black">Pengalaman kegiatan</span>
+              <input name="experience" type="number" min="0" max="100" value="0" class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3">
+            </label>
+          </div>
+        </fieldset>
+
+        <fieldset class="rounded-2xl border border-slate-200 p-5">
+          <legend class="theme-text px-2 font-black">Minat</legend>
+          <label>
+            <span class="mb-2 block font-black">Hewan favorit</span>
+            <select name="favoriteAnimal" required class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3">
+              <option value="">Pilih</option>
+              <option>Harimau Sumatra</option>
+              <option>Badak Jawa</option>
+              <option>Orangutan Sumatra</option>
+              <option>Gajah Sumatra</option>
+              <option>Penyu Sisik</option>
+              <option>Jalak Bali</option>
+            </select>
+          </label>
+
+          <div class="mt-5">
+            <span class="font-black">Partisipasi utama</span>
+            <div class="mt-3 flex flex-wrap gap-5">
+              <label><input type="radio" name="participation" value="Edukasi" required> Edukasi</label>
+              <label><input type="radio" name="participation" value="Relawan"> Relawan</label>
+              <label><input type="radio" name="participation" value="Riset"> Riset</label>
+            </div>
+          </div>
+
+          <div class="mt-5">
+            <span class="font-black">Kegiatan</span>
+            <div class="mt-3 grid gap-2 sm:grid-cols-2">
+              <label><input type="checkbox" name="activities" value="Kampanye digital"> Kampanye digital</label>
+              <label><input type="checkbox" name="activities" value="Bersih habitat"> Bersih habitat</label>
+              <label><input type="checkbox" name="activities" value="Penanaman"> Penanaman</label>
+              <label><input type="checkbox" name="activities" value="Edukasi sekolah"> Edukasi sekolah</label>
+            </div>
+          </div>
+        </fieldset>
+
+        <label class="block">
+          <span class="mb-2 block font-black">Pesan</span>
+          <textarea name="message" required minlength="10" rows="6" class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3" placeholder="Tuliskan ide atau pesan Anda..."></textarea>
+        </label>
+
+        <label class="flex gap-3 rounded-2xl bg-slate-50 p-5">
+          <input type="checkbox" required>
+          <span>Saya menyetujui bahwa informasi yang saya isi akan digunakan untuk menyiapkan pesan partisipasi kepada Endangered World.</span>
+        </label>
+
+        <div class="flex flex-wrap gap-3">
+          <button type="submit" class="theme-bg theme-ring rounded-xl px-6 py-3.5 font-black">Kirim minat partisipasi</button>
+          <button type="reset" class="theme-ring rounded-xl border border-slate-300 px-6 py-3.5 font-black hover:bg-slate-100">Reset</button>
+        </div>
+        <div id="formStatus" role="status" aria-live="polite"></div>
+      </form>
+    </article>
+
+    <aside class="space-y-5">
+      <section class="theme-soft rounded-3xl p-7">
+        <h2 class="text-xl font-black">Kontak</h2>
+        <p class="theme-text mt-3 break-all font-black">template@mail.com</p>
+        <p class="mt-3 text-sm leading-7 text-slate-600">Gunakan alamat ini untuk pertanyaan, kolaborasi edukasi, atau usulan kegiatan konservasi.</p>
+      </section>
+
+      <section class="rounded-3xl border border-slate-200 bg-white p-7">
+        <h2 class="text-xl font-black">Bagaimana pesan dikirim</h2>
+        <p class="mt-3 text-sm leading-7 text-slate-600">Setelah form selesai, aplikasi email pada perangkat Anda akan terbuka dengan isi pesan yang telah disiapkan. Periksa kembali informasi sebelum menekan tombol Kirim.</p>
+      </section>
+    </aside>
+  </section>
+</main>
+
+  
+<footer class="mt-20 bg-slate-950 text-slate-300">
+  <div class="mx-auto grid max-w-7xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-3 lg:px-8">
+    <section>
+      <div class="flex items-center gap-3">
+        <img src="assets/logo.png" alt="" class="h-14 w-14 object-contain">
+        <div>
+          <h2 class="text-xl font-black text-white">Endangered World</h2>
+          <p class="mt-1 text-xs text-slate-400">Belajar · Peduli · Bertindak</p>
+        </div>
+      </div>
+      <p class="mt-4 text-sm leading-7">Ruang edukasi untuk mengenal satwa terancam punah, memahami ancaman yang mereka hadapi, dan menemukan langkah konservasi yang dapat dilakukan bersama.</p>
+    </section>
+
+    <section>
+      <h2 class="font-black text-white">Jelajahi</h2>
+      <ul class="mt-4 space-y-2 text-sm">
+        <li><a class="hover:text-white" href="animals.html">Direktori hewan</a></li>
+        <li><a class="hover:text-white" href="education.html">Materi edukasi</a></li>
+        <li><a class="hover:text-white" href="conservation.html">Aksi konservasi</a></li>
+        <li><a class="hover:text-white" href="contact.html">Partisipasi</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="font-black text-white">Tujuan kami</h2>
+      <p class="mt-4 text-sm leading-7">Menyajikan informasi konservasi dalam format yang mudah dipahami dan mendorong lebih banyak orang untuk mengambil keputusan yang ramah terhadap satwa dan habitatnya.</p>
+      <a href="mailto:template@mail.com" class="theme-text mt-4 inline-block text-sm font-black hover:underline">template@mail.com</a>
+    </section>
+  </div>
+
+  <div class="border-t border-slate-800 px-4 py-5 text-center text-xs text-slate-400">
+    &copy; <span data-current-year></span> Endangered World. Informasi untuk tujuan edukasi.
+  </div>
+</footer>
+
+<button id="backToTop" type="button" class="back-to-top theme-ring hidden" aria-label="Kembali ke bagian atas">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <path d="M6 14l6-6 6 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</button>
+<script src="js/app.js"></script>
+
+</body>
+</html>

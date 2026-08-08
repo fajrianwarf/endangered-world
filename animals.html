@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Jelajahi profil satwa terancam punah yang dilengkapi dokumentasi video dan audio.">
+  <title>Direktori Hewan | Endangered World</title>
+  <link rel="icon" href="assets/logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <script>
+tailwind.config = {
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif']
+      }
+    }
+  }
+}
+</script>
+<script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/custom.css">
+</head>
+<body data-page="animals" class="font-sans antialiased">
+  
+<a href="#main-content" class="theme-ring sr-only z-[100] rounded-xl bg-white p-3 shadow-lg focus:not-sr-only focus:fixed focus:left-4 focus:top-4">Lewati ke konten utama</a>
+<header class="sticky top-0 z-40 border-b border-slate-200 bg-white/95 backdrop-blur-xl">
+  <nav class="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8" aria-label="Navigasi utama">
+    <a href="index.html" class="theme-ring flex min-w-0 items-center gap-3 rounded-xl" aria-label="Endangered World - Beranda">
+      <img src="assets/logo.png" alt="" class="h-12 w-12 shrink-0 object-contain">
+      <span class="min-w-0">
+        <strong class="theme-text block truncate text-lg leading-tight">Endangered World</strong>
+        <small class="block truncate text-xs text-slate-500">Belajar · Peduli · Bertindak</small>
+      </span>
+    </a>
+
+    <div class="hidden items-center gap-1 lg:flex">
+      
+      <a href="index.html" data-nav="home" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Beranda</a>
+      <a href="animals.html" data-nav="animals" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Hewan</a>
+      <a href="education.html" data-nav="education" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Edukasi</a>
+      <a href="conservation.html" data-nav="conservation" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Konservasi</a>
+      <a href="contact.html" data-nav="contact" class="nav-link theme-ring rounded-xl px-3 py-2 text-sm font-bold text-slate-700 hover:bg-slate-100">Partisipasi</a>
+    
+    </div>
+
+    <div class="flex shrink-0 items-center gap-2">
+      <div class="theme-picker-group hidden sm:flex" aria-label="Pilihan warna tampilan">
+        
+        <button class="theme-dot" style="background:#047857" data-theme-color="#047857" aria-label="Gunakan tema hijau hutan" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#0369a1" data-theme-color="#0369a1" aria-label="Gunakan tema biru laut" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#c2410c" data-theme-color="#c2410c" aria-label="Gunakan tema jingga" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#7c3aed" data-theme-color="#7c3aed" aria-label="Gunakan tema ungu" aria-pressed="false"></button>
+        <label class="theme-custom-picker theme-ring" title="Pilih warna sendiri">
+          <span data-custom-theme-swatch class="custom-theme-swatch" aria-hidden="true"></span>
+          <span class="custom-theme-icon" aria-hidden="true">＋</span>
+          <span class="sr-only">Pilih warna tema sendiri</span>
+          <input data-theme-picker type="color" value="#047857" aria-label="Pilih warna tema sendiri">
+        </label>
+    
+      </div>
+      <button type="button" data-mobile-toggle aria-expanded="false" aria-controls="mobile-menu"
+        class="theme-ring grid h-10 w-10 place-items-center rounded-xl border border-slate-300 bg-white lg:hidden">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <span class="sr-only">Buka menu</span>
+      </button>
+    </div>
+  </nav>
+
+  <div id="mobile-menu" data-mobile-menu class="hidden border-t border-slate-200 bg-white px-4 py-3 lg:hidden">
+    <div class="mx-auto max-w-7xl space-y-1">
+      
+      <a href="index.html" data-nav="home" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Beranda</a>
+      <a href="animals.html" data-nav="animals" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Hewan</a>
+      <a href="education.html" data-nav="education" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Edukasi</a>
+      <a href="conservation.html" data-nav="conservation" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Konservasi</a>
+      <a href="contact.html" data-nav="contact" class="nav-link theme-ring block rounded-xl px-4 py-3 font-bold text-slate-700 hover:bg-slate-100">Partisipasi</a>
+    
+      <div class="mt-3 border-t border-slate-200 pt-4">
+        <p class="mb-3 text-xs font-black uppercase tracking-wider text-slate-500">Warna tampilan</p>
+        <div class="theme-picker-group flex">
+          
+        <button class="theme-dot" style="background:#047857" data-theme-color="#047857" aria-label="Gunakan tema hijau hutan" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#0369a1" data-theme-color="#0369a1" aria-label="Gunakan tema biru laut" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#c2410c" data-theme-color="#c2410c" aria-label="Gunakan tema jingga" aria-pressed="false"></button>
+        <button class="theme-dot" style="background:#7c3aed" data-theme-color="#7c3aed" aria-label="Gunakan tema ungu" aria-pressed="false"></button>
+        <label class="theme-custom-picker theme-ring" title="Pilih warna sendiri">
+          <span data-custom-theme-swatch class="custom-theme-swatch" aria-hidden="true"></span>
+          <span class="custom-theme-icon" aria-hidden="true">＋</span>
+          <span class="sr-only">Pilih warna tema sendiri</span>
+          <input data-theme-picker type="color" value="#047857" aria-label="Pilih warna tema sendiri">
+        </label>
+    
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  
+<main id="main-content">
+  <section class="hero-theme py-20 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <p class="font-black uppercase tracking-[.2em] text-white/75">Direktori satwa</p>
+      <h1 class="mt-3 max-w-4xl text-5xl font-black">Kenali satwa melalui gambar, video, dan suara</h1>
+      <p class="mt-5 max-w-3xl text-lg leading-8 text-white/80">Gunakan pencarian dan filter untuk menemukan satwa berdasarkan habitat, kelompok, atau status konservasi. Buka setiap profil untuk melihat informasi, media, dan tindakan yang dapat dilakukan.</p>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <form class="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm" role="search" onsubmit="return false">
+      <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-[1.6fr_1fr_1fr_1fr_auto]">
+        <label>
+          <span class="mb-2 block text-sm font-black">Cari hewan</span>
+          <input id="animalSearch" type="search" placeholder="Nama, nama ilmiah, lokasi..." class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3">
+        </label>
+        <label>
+          <span class="mb-2 block text-sm font-black">Habitat</span>
+          <select id="habitatFilter" class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3"></select>
+        </label>
+        <label>
+          <span class="mb-2 block text-sm font-black">Kelompok</span>
+          <select id="groupFilter" class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3"></select>
+        </label>
+        <label>
+          <span class="mb-2 block text-sm font-black">Status</span>
+          <select id="statusFilter" class="theme-ring w-full rounded-xl border border-slate-300 px-4 py-3"></select>
+        </label>
+        <button id="clearFilters" type="button" class="theme-ring self-end rounded-xl border border-slate-300 px-5 py-3 font-black hover:bg-slate-100">Reset</button>
+      </div>
+    </form>
+
+    <div class="mt-7 flex items-center justify-between gap-4">
+      <p id="resultCount" class="font-black text-slate-600">Memuat data...</p>
+      <span class="theme-soft theme-text rounded-full px-4 py-2 text-xs font-black">Profil dengan media lengkap</span>
+    </div>
+
+    <div id="animalGrid" class="mt-7 grid gap-7 md:grid-cols-2 lg:grid-cols-3"></div>
+
+    <div id="emptyState" class="mt-8 hidden rounded-3xl border border-dashed border-slate-300 p-12 text-center">
+      <div class="text-5xl">🔍</div>
+      <h2 class="mt-4 text-2xl font-black">Tidak ditemukan</h2>
+      <p class="mt-2 text-slate-500">Coba ubah filter atau kata kunci.</p>
+    </div>
+
+    <div data-animal-load-error class="mt-8 hidden rounded-2xl border border-rose-200 bg-rose-50 p-5 font-bold text-rose-800">
+      Data satwa belum dapat dimuat. Silakan muat ulang halaman atau coba kembali beberapa saat lagi.
+    </div>
+  </section>
+
+  <div id="animalModal" class="fixed inset-0 z-50 hidden overflow-y-auto bg-slate-950/75 p-4 backdrop-blur-sm" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="animalModalTitle">
+    <div class="mx-auto my-8 max-w-6xl overflow-hidden rounded-3xl bg-white shadow-2xl">
+      <div class="sticky top-0 z-10 flex justify-end border-b border-slate-200 bg-white/95 p-3 backdrop-blur">
+        <button type="button" data-close-modal class="theme-ring grid h-10 w-10 place-items-center rounded-full hover:bg-slate-100" aria-label="Tutup detail">✕</button>
+      </div>
+      <div data-modal-content></div>
+    </div>
+  </div>
+</main>
+
+  
+<footer class="mt-20 bg-slate-950 text-slate-300">
+  <div class="mx-auto grid max-w-7xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-3 lg:px-8">
+    <section>
+      <div class="flex items-center gap-3">
+        <img src="assets/logo.png" alt="" class="h-14 w-14 object-contain">
+        <div>
+          <h2 class="text-xl font-black text-white">Endangered World</h2>
+          <p class="mt-1 text-xs text-slate-400">Belajar · Peduli · Bertindak</p>
+        </div>
+      </div>
+      <p class="mt-4 text-sm leading-7">Ruang edukasi untuk mengenal satwa terancam punah, memahami ancaman yang mereka hadapi, dan menemukan langkah konservasi yang dapat dilakukan bersama.</p>
+    </section>
+
+    <section>
+      <h2 class="font-black text-white">Jelajahi</h2>
+      <ul class="mt-4 space-y-2 text-sm">
+        <li><a class="hover:text-white" href="animals.html">Direktori hewan</a></li>
+        <li><a class="hover:text-white" href="education.html">Materi edukasi</a></li>
+        <li><a class="hover:text-white" href="conservation.html">Aksi konservasi</a></li>
+        <li><a class="hover:text-white" href="contact.html">Partisipasi</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="font-black text-white">Tujuan kami</h2>
+      <p class="mt-4 text-sm leading-7">Menyajikan informasi konservasi dalam format yang mudah dipahami dan mendorong lebih banyak orang untuk mengambil keputusan yang ramah terhadap satwa dan habitatnya.</p>
+      <a href="mailto:template@mail.com" class="theme-text mt-4 inline-block text-sm font-black hover:underline">template@mail.com</a>
+    </section>
+  </div>
+
+  <div class="border-t border-slate-800 px-4 py-5 text-center text-xs text-slate-400">
+    &copy; <span data-current-year></span> Endangered World. Informasi untuk tujuan edukasi.
+  </div>
+</footer>
+
+<button id="backToTop" type="button" class="back-to-top theme-ring hidden" aria-label="Kembali ke bagian atas">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <path d="M6 14l6-6 6 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</button>
+<script src="js/app.js"></script>
+
+</body>
+</html>
