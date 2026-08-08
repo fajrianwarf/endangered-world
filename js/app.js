@@ -5,7 +5,7 @@ const DATA_URL = 'data/animals.json';
 const ERROR_IMAGE = 'assets/image-error.svg';
 
 // Template recipient. Change this value later if needed.
-const FORM_RECIPIENT = 'template@mail.com';
+const FORM_RECIPIENT = 'fajri.250401010116@student.unsia.ac.id';
 
 let animalsCache = [];
 
