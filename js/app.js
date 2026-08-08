@@ -507,6 +507,15 @@ function stopModalMedia(modal) {
   });
 }
 
+function removeAnimalParam() {
+  const url = new URL(window.location.href);
+
+  if (!url.searchParams.has('animal')) return;
+
+  url.searchParams.delete('animal');
+  window.history.replaceState({}, '', url);
+}
+
 function closeAnimalModal() {
   const modal = document.getElementById('animalModal');
   if (!modal) return;
@@ -516,6 +525,8 @@ function closeAnimalModal() {
   modal.classList.add('hidden');
   modal.setAttribute('aria-hidden', 'true');
   document.body.classList.remove('overflow-hidden');
+
+  removeAnimalParam();
 }
 
 
